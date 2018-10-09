@@ -1,11 +1,13 @@
-
 # Profile Web Page
 
-## Help me create a webpage displaying my profile
-I need to create web page with my profile
+## Goals
+I need a web page with a basic profile. Feel free to explore a range of options or a single design.
 
-## You can add your profile design ideas
- Add your own profiles in a separate folder and rename the file as *your_username.html*
+## Standards
+- Add your own profile example/examples in a separate folder.
+- Rename the file as *your_username.html*
 
-## This repository is for Hactoberfest 2018
-## Have fun
+### Notice
+This repository is for Hactoberfest 2018.
+
+Have fun!
